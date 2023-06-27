@@ -1,33 +1,33 @@
 # Basic Stuff
 
 Ubuntu / Debian
-- [ ] Install Ubuntu WSL
-	- [ ] https://ubuntu.com/wsl
-- [ ] Or use VirtualBox & Install Ubuntu
-	- [ ] https://www.virtualbox.org/
-	- [ ] Ubuntu on VirtualBox
-- [ ] Ubuntu Command Line Basics
+<input type="checkbox" /> Install Ubuntu WSL
+	<input type="checkbox" /> https://ubuntu.com/wsl
+<input type="checkbox" /> Or use VirtualBox & Install Ubuntu
+	<input type="checkbox" /> https://www.virtualbox.org/
+	<input type="checkbox" /> Ubuntu on VirtualBox
+<input type="checkbox" /> Ubuntu Command Line Basics
 
 git
-- [ ] Create gitlab account
-- [ ] Inform me of your gitlab account
-- [ ] Install git on Linux
-- [ ] git Basics
-- [ ] Reference to visualize command & entities (cheatsheet)
+<input type="checkbox" /> Create gitlab account
+<input type="checkbox" /> Inform me of your gitlab account
+<input type="checkbox" /> Install git on Linux
+<input type="checkbox" /> git Basics
+<input type="checkbox" /> Reference to visualize command & entities (cheatsheet)
 
 Python
-- [ ] Do as much basic  HackerRank stuff as you want
+<input type="checkbox" /> Do as much basic  HackerRank stuff as you want
 
 Docker
-- [ ] Install Docker Desktop
-- [ ] Try Docker basics
-- [ ] Learn docker-compose file
+<input type="checkbox" /> Install Docker Desktop
+<input type="checkbox" /> Try Docker basics
+<input type="checkbox" /> Learn docker-compose file
 
 Django
-- [ ] Getting Started
+<input type="checkbox" /> Getting Started
 
 NextJS
-- [ ] Getting Started
+<input type="checkbox" /> Getting Started
 
 DRF
-- [ ] Getting Started
+<input type="checkbox" /> Getting Started
