@@ -1,5 +1,5 @@
 # Basic Stuff
-- [Here](https://redwud-oss.github.io/getting-started/basic)
+
 ## Ubuntu / Debian
 - <input type="checkbox" /> Install Ubuntu WSL
   - <input type="checkbox" /> https://ubuntu.com/wsl
