@@ -16,12 +16,16 @@ Install [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-de
 ## Code Editors 
 Choosing an editor is a personal preference. Some people choose based on trends.
 
-### VIM / VI
-Most Linux systems have `Vim/Vi`.  In some cases, there are no other editors available. Learning it is essential because of that.
+### Vim / Vi / Nano
+[Why Vim?](https://www.youtube.com/watch?v=4WTV6ZCY4qo)
+Most Linux systems have `Vim/Vi/Nano`.  In some cases, there are no other editors available. Learning it is essential because of that.
 <br/><input type="checkbox" />[Install Vim on Ubuntu](https://www.cyberciti.biz/faq/howto-install-vim-on-ubuntu-linux/)
 
 ### Visual Studio Code
-<br/><input type="checkbox" /> [Install VS Code on Linux](https://code.visualstudio.com/docs/setup/linux)
+<input type="checkbox" /> [Install VS Code on Linux](https://code.visualstudio.com/docs/setup/linux)
+
+### PyCharm Community Edition
+[Install Pycharm on Linux](https://www.jetbrains.com/help/pycharm/installation-guide.html#7447c990)
 
 ## Python
 <input type="checkbox" /> Do as much basic [HackerRank](https://www.hackerrank.com/domains/python) stuff as you want
@@ -39,3 +43,10 @@ Most Linux systems have `Vim/Vi`.  In some cases, there are no other editors ava
 
 ## DRF
 <input type="checkbox" /> [Getting Started](https://www.django-rest-framework.org/tutorial/quickstart/)
+
+## Extras
+### Markdown
+- [Tutorial](https://www.markdowntutorial.com/)
+- [Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
+### Yaml
+- [Basics](https://redocly.com/docs/yaml/)
