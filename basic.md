@@ -55,7 +55,8 @@ Most Linux systems have `Vim/Vi/Nano`.  In some cases, there are no other editor
 
 ## Extras
 ### Markdown
-- [Tutorial](https://www.markdowntutorial.com/)
-- [Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
+<input type="checkbox" /> [Tutorial](https://www.markdowntutorial.com/)
+<input type="checkbox" /> [Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
+
 ### Yaml
-- [Basics](https://redocly.com/docs/yaml/)
+<input type="checkbox" /> [Basics](https://redocly.com/docs/yaml/)
