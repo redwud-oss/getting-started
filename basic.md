@@ -11,7 +11,17 @@ Install [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-de
 <br/><input type="checkbox" /> Inform me of your gitlab account
 <br/><input type="checkbox" /> [Install git on Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
 <br/><input type="checkbox" /> [git Basics](https://ndpsoftware.com/git-cheatsheet.html#loc=index)
-<br/><input type="checkbox" /> Reference to visualize command & entities [cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index)
+<br/><input type="checkbox" /> [Visualize command & entities](https://ndpsoftware.com/git-cheatsheet.html#loc=index)
+
+## Code Editors 
+Choosing an editor is a personal preference. Some people choose based on trends.
+
+### VIM / VI
+Most Linux systems have `Vim/Vi`.  In some cases, there are no other editors available. Learning it is essential because of that.
+<br/><input type="checkbox" />[Install Vim on Ubuntu](https://www.cyberciti.biz/faq/howto-install-vim-on-ubuntu-linux/)
+
+### Visual Studio Code
+<br/><input type="checkbox" /> [Install VS Code on Linux](https://code.visualstudio.com/docs/setup/linux)
 
 ## Python
 <input type="checkbox" /> Do as much basic [HackerRank](https://www.hackerrank.com/domains/python) stuff as you want
