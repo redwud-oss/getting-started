@@ -1,11 +1,9 @@
 # Basic Stuff
 
 ## Ubuntu / Debian
-<input type="checkbox" /> Install Ubuntu WSL
-  <br/><input type="checkbox" /> https://ubuntu.com/wsl
-<br/><input type="checkbox" /> Or use VirtualBox & Install Ubuntu
-  <br/><input type="checkbox" /> https://www.virtualbox.org/
-  <br/><input type="checkbox" /> [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
+<input type="checkbox" /> [Install Ubuntu WSL](https://ubuntu.com/wsl)
+<br/><input type="checkbox" /> Or use [VirtualBox](https://www.virtualbox.org) & 
+Install [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
 <br/><input type="checkbox" /> [Ubuntu Command Line Basics](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ## git
