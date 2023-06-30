@@ -10,10 +10,6 @@
 Install [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
 <br/><input type="checkbox" /> [Ubuntu Command Line Basics](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
-### Docker
-<input type="checkbox" /> Install [Docker Desktop](https://docs.docker.com/desktop/install/ubuntu/) on Ubuntu
-<br/><input type="checkbox" /> Try [Docker basics](https://docker-curriculum.com/)
-<br/><input type="checkbox" /> Learn [docker-compose file](https://docs.docker.com/compose/compose-file/)
 
 ### Git
 
@@ -37,6 +33,13 @@ Install [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-de
 <br/><input type="checkbox" /> Stashing 
 <br/><input type="checkbox" /> Conflict Resolution 
 <br/><input type="checkbox" /> Pull Request / Merge Request 
+
+
+### Docker
+<input type="checkbox" /> Install [Docker Desktop](https://docs.docker.com/desktop/install/ubuntu/) on Ubuntu
+<br/><input type="checkbox" /> Try [Docker basics](https://docker-curriculum.com/)
+<br/><input type="checkbox" /> Learn [docker-compose file](https://docs.docker.com/compose/compose-file/)
+
 ---
 ## Code Editors 
 Choosing an editor is a personal preference. Some people choose based on trends.
