@@ -11,17 +11,32 @@ Install [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-de
 <br/><input type="checkbox" /> [Ubuntu Command Line Basics](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ### Docker
-<input type="checkbox" /> Install Docker Desktop on [Ubuntu](https://docs.docker.com/desktop/install/ubuntu/)
+<input type="checkbox" /> Install [Docker Desktop](https://docs.docker.com/desktop/install/ubuntu/) on Ubuntu
 <br/><input type="checkbox" /> Try [Docker basics](https://docker-curriculum.com/)
 <br/><input type="checkbox" /> Learn [docker-compose file](https://docs.docker.com/compose/compose-file/)
 
 ### Git
+
+#### Gitlab Account 
 <input type="checkbox" /> [Create gitlab account](https://about.gitlab.com/get-started/)
 <br/><input type="checkbox" /> Inform me of your gitlab account
 <br/><input type="checkbox" /> [Install git on Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
-<br/><input type="checkbox" /> [git Basics](https://ndpsoftware.com/git-cheatsheet.html#loc=index)
-<br/><input type="checkbox" /> [Visualize command & entities](https://ndpsoftware.com/git-cheatsheet.html#loc=index)
 
+#### Study References
+
+<input type="checkbox" /> [Visualize command & entities](https://ndpsoftware.com/git-cheatsheet.html#loc=index)
+<br/><input type="checkbox" /> [Pro Git book](https://git-scm.com/book/en/v2)
+<br/><input type="checkbox" /> [Basics Video 1](https://youtu.be/8JJ101D3knE)
+<br/><input type="checkbox" /> [Basics Video 2](https://youtu.be/RGOj5yH7evk)
+
+#### Essential Topics
+
+<input type="checkbox" /> Cloning
+<br/><input type="checkbox" /> Branch operation 
+<br/><input type="checkbox" /> Merging branches 
+<br/><input type="checkbox" /> Stashing 
+<br/><input type="checkbox" /> Conflict Resolution 
+<br/><input type="checkbox" /> Pull Request / Merge Request 
 ---
 ## Code Editors 
 Choosing an editor is a personal preference. Some people choose based on trends.
@@ -53,10 +68,11 @@ Most Linux systems have `Vim/Vi/Nano`.  In some cases, there are no other editor
 <input type="checkbox" /> [Getting Started](https://www.django-rest-framework.org/tutorial/quickstart/)
 
 
+---
 ## Extras
 ### Markdown
 <input type="checkbox" /> [Tutorial](https://www.markdowntutorial.com/)
-<input type="checkbox" /> [Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
+<br/><input type="checkbox" /> [Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ### Yaml
 <input type="checkbox" /> [Basics](https://redocly.com/docs/yaml/)
