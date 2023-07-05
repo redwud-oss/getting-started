@@ -73,9 +73,15 @@ Most Linux systems have `Vim/Vi/Nano`.  In some cases, there are no other editor
 
 ---
 ## Extras
+### Postman
+
+<input type="checkbox" /> [Installation](https://learning.postman.com/docs/getting-started/installation-and-updates/)
+<br/><input type="checkbox" /> [Basics](https://learning.postman.com/docs/getting-started/overview/)
+
 ### Markdown
 <input type="checkbox" /> [Tutorial](https://www.markdowntutorial.com/)
 <br/><input type="checkbox" /> [Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ### Yaml
 <input type="checkbox" /> [Basics](https://redocly.com/docs/yaml/)
+
