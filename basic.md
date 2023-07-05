@@ -48,6 +48,9 @@ Choosing an editor is a personal preference. Some people choose based on trends.
 [Why Vim?](https://www.youtube.com/watch?v=4WTV6ZCY4qo)
 Most Linux systems have `Vim/Vi/Nano`.  In some cases, there are no other editors available. Learning it is essential because of that.
 <br/><input type="checkbox" />[Install Vim on Ubuntu](https://www.cyberciti.biz/faq/howto-install-vim-on-ubuntu-linux/)
+<br/><input type="checkbox" />[Tutorial](https://youtu.be/RZ4p-saaQkc)
+
+
 
 ### Visual Studio Code (Optional)
 <input type="checkbox" /> [Install VS Code on Linux](https://code.visualstudio.com/docs/setup/linux)
