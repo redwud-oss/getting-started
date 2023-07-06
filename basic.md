@@ -58,8 +58,14 @@ Most Linux systems have `Vim/Vi/Nano`.  In some cases, there are no other editor
 ### PyCharm Community Edition (Optional)
 <input type="checkbox" /> [Install Pycharm on Linux](https://www.jetbrains.com/help/pycharm/installation-guide.html#7447c990)
 
-## Python
+## Languages, Etc. 
+
+### Python
 <input type="checkbox" /> Do as much basic [HackerRank](https://www.hackerrank.com/domains/python) stuff as you want
+
+### HTML/CSS/Javascript
+<br/><input type="checkbox" /> Practice site [Programiz](https://www.programiz.com/html/online-compiler/) can do close to realtime update. 
+
 
 ---
 ## Frameworks
