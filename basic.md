@@ -1,6 +1,5 @@
 # Basic Stuff
 
-
 ---
 ## Infra
 
@@ -13,10 +12,19 @@ Install [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-de
 
 ### Git
 
-#### Gitlab Account 
-<input type="checkbox" /> [Create gitlab account](https://about.gitlab.com/get-started/)
-<br/><input type="checkbox" /> Inform me of your gitlab account
-<br/><input type="checkbox" /> [Install git on Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
+#### Setup 
+<input type="checkbox" /> [Install git on Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
+
+#### Accounts 
+<input type="checkbox" /> [Create GitLab Account](https://about.gitlab.com/get-started/)
+<br/><input type="checkbox" /> [Create Github Account](https://github.com/join)
+<br/><input type="checkbox" /> Inform me both accounts
+
+
+#### SSH
+<input type="checkbox" /> [Setup SSH GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+<br/><input type="checkbox" /> [Setup SSH GitLab](https://docs.gitlab.com/ee/user/ssh.html)
+
 
 #### Study References
 
