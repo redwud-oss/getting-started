@@ -24,6 +24,12 @@ Install [Ubuntu on VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-de
 #### SSH
 <input type="checkbox" /> [Setup SSH GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 <br/><input type="checkbox" /> [Setup SSH GitLab](https://docs.gitlab.com/ee/user/ssh.html)
+<br/><input type="checkbox" /> [Basic Tutorial](https://www.warp.dev/terminus/git-clone-ssh)
+
+
+#### Workflows (Branch vs Fork)
+<input type="checkbox" /> [Practical visualization](https://stackoverflow.com/a/3903835)
+<br/><input type="checkbox" /> [Guide](https://www.pluralsight.com/blog/software-development/the-definitive-guide-to-forks-and-branches-in-git)
 
 
 #### Study References
