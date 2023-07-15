@@ -78,6 +78,7 @@ Most Linux systems have `Vim/Vi/Nano`.  In some cases, there are no other editor
 <input type="checkbox" /> Do as much basic [HackerRank](https://www.hackerrank.com/domains/python) stuff as you want
 
 ### HTML/CSS/Javascript
+<input type="checkbox" /> See [W3Schools](https://www.w3schools.com/html/) for syntax 
 <br/><input type="checkbox" /> Practice site [Programiz](https://www.programiz.com/html/online-compiler/) can do close to realtime update. 
 
 
